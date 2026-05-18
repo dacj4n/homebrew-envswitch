@@ -7,7 +7,7 @@ class Envswitch < Formula
   on_macos do
     on_arm do
       url "https://github.com/dacj4n/envSwitch/releases/download/v#{version}/envswitch-macos-arm64.tar.gz"
-      sha256 "284c2e1a3a856d89a3dfa4092480e8272ccb69ac9fedf27ef89e6a116575acb2"
+      sha256 "b38d9de1df7c2b1e1eb1f1de625fe7b0ed411f7230a793fd86756593ef70d920"
     end
   end
 
