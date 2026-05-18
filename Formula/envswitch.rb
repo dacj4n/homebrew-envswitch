@@ -2,7 +2,7 @@ class Envswitch < Formula
   desc "Native dev-environment version manager — instant symlink switching for JDK, Go, Node, PHP, Python, MySQL, PostgreSQL"
   homepage "https://github.com/dacj4n/envSwitch"
   license "MIT"
-  version "0.1.0"
+  version "0.1.2"
 
   on_macos do
     on_arm do
